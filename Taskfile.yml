@@ -22,7 +22,7 @@ tasks:
       - strip target/release/{{.APP_NAME}}
 
       # Package
-      - tar -cvzf {{.BUNDLE_BASE}}/{{.VERSION}}/{{.APP_NAME}}-x86_64-linux-universal.tar.gz -C target/release {{.APP_NAME}}
-      - tar -cvJf {{.BUNDLE_BASE}}/{{.VERSION}}/{{.APP_NAME}}-x86_64-linux-universal.tar.xz -C target/release {{.APP_NAME}}
+      - tar -cvzf {{.BUNDLE_BASE}}/{{.VERSION}}/{{.APP_NAME}}-v{{.VERSION}}-x86_64-linux-universal.tar.gz -C target/release {{.APP_NAME}}
+      - tar -cvJf {{.BUNDLE_BASE}}/{{.VERSION}}/{{.APP_NAME}}-v{{.VERSION}}-x86_64-linux-universal.tar.xz -C target/release {{.APP_NAME}}
 
       - echo "Build completed for version {{.VERSION}}"
