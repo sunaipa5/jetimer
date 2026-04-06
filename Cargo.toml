@@ -1,0 +1,12 @@
+[package]
+name = "jetimer"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+
+[dependencies]
+tray-icon = { version = "0.22.0", default-features = false }
+winit = "0.30.13"
+gtk = "0.18"
+resvg = "0.47"
+tiny-skia = "0.12.0"
