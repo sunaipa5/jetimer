@@ -31,16 +31,16 @@ sudo pacman -S gtk3 libappindicator-gtk3 zenity libnotify
 
 ### Title entry
 
-![SS1](https://github.com/sunaipa5/jetimer/blob/master/assets/ss1.png?raw=true)
+![SS1](https://github.com/sunaipa5/jetimer/blob/main/assets/ss1.png?raw=true)
 
 ### Time selector
 
-![SS2](https://github.com/sunaipa5/jetimer/blob/master/assets/ss2.png?raw=true)
+![SS2](https://github.com/sunaipa5/jetimer/blob/main/assets/ss2.png?raw=true)
 
 ## Tray
 
-![SS3](https://github.com/sunaipa5/jetimer/blob/master/assets/ss3.png?raw=true)
+![SS3](https://github.com/sunaipa5/jetimer/blob/main/assets/ss3.png?raw=true)
 
 ## Tray right click
 
-![SS4](https://github.com/sunaipa5/jetimer/blob/master/assets/ss4.png?raw=true)
+![SS4](https://github.com/sunaipa5/jetimer/blob/main/assets/ss4.png?raw=true)
